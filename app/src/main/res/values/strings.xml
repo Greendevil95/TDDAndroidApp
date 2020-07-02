@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Android Application</string>
+    <string name="Button_one">Не помню</string>
+    <string name="Button_two">Трудно</string>
+    <string name="Button_three">Нормально</string>
+    <string name="Button_four">Легко</string>
+    <string name="show_answer">Показать ответ</string>
+    <string name="addCardButton">Добавить карту</string>
+    <string name="addDeckButton">Добавить колоду</string>
+    <string name="title_activity_cards_in_deck">activity_cards_in_deck</string>
+    <string name="deleteCard">Удалить карту</string>
+    <string name="changeCard">Редактировать карту</string>
+    <string name="title_activity_test_activity">test_activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+
+</resources>
